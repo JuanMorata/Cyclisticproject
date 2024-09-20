@@ -3,9 +3,9 @@ title: "Cyclistic project 2023-24"
 author: "Juan Aurelio García Morata"
 date: "2024-09-15"
 output:
-  html_notebook: default
-  word_document: default
   html_document: default
+  word_document: default
+  html_notebook: default
 ---
 
 ![Chicago](https://chicagobikeadventures.com/wp-content/uploads/2018/11/IMG_9912-3-1024x272.jpg)
